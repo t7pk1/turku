@@ -1,0 +1,2 @@
+# turku
+VSCode proje
